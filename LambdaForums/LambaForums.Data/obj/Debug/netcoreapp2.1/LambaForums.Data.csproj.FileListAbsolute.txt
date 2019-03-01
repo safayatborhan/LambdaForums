@@ -1,0 +1,11 @@
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\bin\Debug\netcoreapp2.1\LambaForums.Data.deps.json
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\bin\Debug\netcoreapp2.1\LambaForums.Data.runtimeconfig.json
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\bin\Debug\netcoreapp2.1\LambaForums.Data.runtimeconfig.dev.json
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\bin\Debug\netcoreapp2.1\LambaForums.Data.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\bin\Debug\netcoreapp2.1\LambaForums.Data.pdb
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.csprojAssemblyReference.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.csproj.CoreCompileInputs.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.AssemblyInfoInputs.cache
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.AssemblyInfo.cs
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.dll
+D:\MY WORLD\latest programming\ASP.NET CORE WITH ANGULAR\LambdaForums\LambdaForums\LambaForums.Data\obj\Debug\netcoreapp2.1\LambaForums.Data.pdb
